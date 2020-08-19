@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472609034396",
+    "firebase_url": "https://hackthon-1c3ea.firebaseio.com",
+    "project_id": "hackthon-1c3ea",
+    "storage_bucket": "hackthon-1c3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472609034396:android:130becaaca8e1f50435d59",
+        "android_client_info": {
+          "package_name": "com.example.hackthon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472609034396-p724p5l0q9oq2mmceuouv7hbnado6gba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2KjNny6dnBCZyqe_Z5pMNk3Q9RgGMqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472609034396-p724p5l0q9oq2mmceuouv7hbnado6gba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
